@@ -1,0 +1,6 @@
+
+ Hráč A je na poli 1
+Hráč A hodil: [6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 3] → celkem 99
+Hráč A se posunul na pole 100
+
+🎉 Hráč A vyhrál hru! 🎉
