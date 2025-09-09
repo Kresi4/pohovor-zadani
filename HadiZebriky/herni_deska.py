@@ -22,8 +22,4 @@ class HerniDeska:
             return nova_pozice
         return pozice
 
-    def je_specialni_pole(self, pozice):
-        return pozice in self.zebriky or pozice in self.hadi
 
-    def je_platne_pole(self, pozice):
-        return 1 <= pozice <= self.velikost
