@@ -1,0 +1,234 @@
+
+Hráč A je na poli 1
+Hráč A hodil: [3] → celkem 3
+Hráč A hodil: 3
+Hráč A se posunul na pole 4
+
+Hráč B je na poli 1
+Hráč B hodil: [5] → celkem 5
+Hráč B hodil: 5
+Hráč B se posunul na pole 6
+
+Hráč C je na poli 1
+Hráč C hodil: [4] → celkem 4
+Hráč C hodil: 4
+Hráč C se posunul na pole 5
+
+Hráč A je na poli 4
+Hráč A hodil: [4] → celkem 4
+Hráč A hodil: 4
+Hráč A se posunul na pole 8
+↑ Hráč A vylezl po žebříku na pole 31
+
+Hráč B je na poli 6
+Hráč B hodil: [3] → celkem 3
+Hráč B hodil: 3
+Hráč B se posunul na pole 9
+
+Hráč C je na poli 5
+Hráč C hodil: [6, 6, 6, 6, 5] → celkem 29
+Hráč C hodil: 29
+Hráč C se posunul na pole 34
+
+Hráč A je na poli 31
+Hráč A hodil: [1] → celkem 1
+Hráč A hodil: 1
+Hráč A se posunul na pole 32
+
+Hráč B je na poli 9
+Hráč B hodil: [5] → celkem 5
+Hráč B hodil: 5
+Hráč B se posunul na pole 14
+
+Hráč C je na poli 34
+Hráč C hodil: [3] → celkem 3
+Hráč C hodil: 3
+Hráč C se posunul na pole 37
+
+Hráč A je na poli 32
+Hráč A hodil: [1] → celkem 1
+Hráč A hodil: 1
+Hráč A se posunul na pole 33
+
+Hráč B je na poli 14
+Hráč B hodil: [2] → celkem 2
+Hráč B hodil: 2
+Hráč B se posunul na pole 16
+↓ Hráč B spadl na pole 6
+
+Hráč C je na poli 37
+Hráč C hodil: [1] → celkem 1
+Hráč C hodil: 1
+Hráč C se posunul na pole 38
+
+Hráč A je na poli 33
+Hráč A hodil: [1] → celkem 1
+Hráč A hodil: 1
+Hráč A se posunul na pole 34
+
+Hráč B je na poli 6
+Hráč B hodil: [5] → celkem 5
+Hráč B hodil: 5
+Hráč B se posunul na pole 11
+
+Hráč C je na poli 38
+Hráč C hodil: [3] → celkem 3
+Hráč C hodil: 3
+Hráč C se posunul na pole 41
+
+Hráč A je na poli 34
+Hráč A hodil: [5] → celkem 5
+Hráč A hodil: 5
+Hráč A se posunul na pole 39
+
+Hráč B je na poli 11
+Hráč B hodil: [6, 1] → celkem 7
+Hráč B hodil: 7
+Hráč B se posunul na pole 18
+
+Hráč C je na poli 41
+Hráč C hodil: [6, 2] → celkem 8
+Hráč C hodil: 8
+Hráč C se posunul na pole 49
+↓ Hráč C spadl na pole 11
+
+Hráč A je na poli 39
+Hráč A hodil: [3] → celkem 3
+Hráč A hodil: 3
+Hráč A se posunul na pole 42
+
+Hráč B je na poli 18
+Hráč B hodil: [4] → celkem 4
+Hráč B hodil: 4
+Hráč B se posunul na pole 22
+
+Hráč C je na poli 11
+Hráč C hodil: [6, 3] → celkem 9
+Hráč C hodil: 9
+Hráč C se posunul na pole 20
+
+Hráč A je na poli 42
+Hráč A hodil: [6, 6, 5] → celkem 17
+Hráč A hodil: 17
+Hráč A se posunul na pole 59
+
+Hráč B je na poli 22
+Hráč B hodil: [6, 5] → celkem 11
+Hráč B hodil: 11
+Hráč B se posunul na pole 33
+
+Hráč C je na poli 20
+Hráč C hodil: [5] → celkem 5
+Hráč C hodil: 5
+Hráč C se posunul na pole 25
+
+Hráč A je na poli 59
+Hráč A hodil: [2] → celkem 2
+Hráč A hodil: 2
+Hráč A se posunul na pole 61
+
+Hráč B je na poli 33
+Hráč B hodil: [4] → celkem 4
+Hráč B hodil: 4
+Hráč B se posunul na pole 37
+
+Hráč C je na poli 25
+Hráč C hodil: [3] → celkem 3
+Hráč C hodil: 3
+Hráč C se posunul na pole 28
+↑ Hráč C vylezl po žebříku na pole 84
+
+Hráč A je na poli 61
+Hráč A hodil: [2] → celkem 2
+Hráč A hodil: 2
+Hráč A se posunul na pole 63
+
+Hráč B je na poli 37
+Hráč B hodil: [2] → celkem 2
+Hráč B hodil: 2
+Hráč B se posunul na pole 39
+
+Hráč C je na poli 84
+Hráč C hodil: [3] → celkem 3
+Hráč C hodil: 3
+Hráč C se posunul na pole 87
+↑ Hráč C vylezl po žebříku na pole 94
+
+Hráč A je na poli 63
+Hráč A hodil: [6, 3] → celkem 9
+Hráč A hodil: 9
+Hráč A se posunul na pole 72
+
+Hráč B je na poli 39
+Hráč B hodil: [5] → celkem 5
+Hráč B hodil: 5
+Hráč B se posunul na pole 44
+
+Hráč C je na poli 94
+Hráč C hodil: [4] → celkem 4
+Hráč C hodil: 4
+Hráč C se posunul na pole 98
+
+Hráč A je na poli 72
+Hráč A hodil: [1] → celkem 1
+Hráč A hodil: 1
+Hráč A se posunul na pole 73
+
+Hráč B je na poli 44
+Hráč B hodil: [3] → celkem 3
+Hráč B hodil: 3
+Hráč B se posunul na pole 47
+
+Hráč C je na poli 98
+Hráč C hodil: [4] → celkem 4
+Hráč C hodil: 4
+Hráč C nemůže překročit pole 100. Zůstává na místě.
+
+Hráč A je na poli 73
+Hráč A hodil: [6, 6, 5] → celkem 17
+Hráč A hodil: 17
+Hráč A se posunul na pole 90
+
+Hráč B je na poli 47
+Hráč B hodil: [5] → celkem 5
+Hráč B hodil: 5
+Hráč B se posunul na pole 52
+
+Hráč C je na poli 98
+Hráč C hodil: [3] → celkem 3
+Hráč C hodil: 3
+Hráč C nemůže překročit pole 100. Zůstává na místě.
+
+Hráč A je na poli 90
+Hráč A hodil: [1] → celkem 1
+Hráč A hodil: 1
+Hráč A se posunul na pole 91
+
+Hráč B je na poli 52
+Hráč B hodil: [3] → celkem 3
+Hráč B hodil: 3
+Hráč B se posunul na pole 55
+
+Hráč C je na poli 98
+Hráč C hodil: [4] → celkem 4
+Hráč C hodil: 4
+Hráč C nemůže překročit pole 100. Zůstává na místě.
+
+Hráč A je na poli 91
+Hráč A hodil: [1] → celkem 1
+Hráč A hodil: 1
+Hráč A se posunul na pole 92
+↓ Hráč A spadl na pole 88
+
+Hráč B je na poli 55
+Hráč B hodil: [6, 1] → celkem 7
+Hráč B hodil: 7
+Hráč B se posunul na pole 62
+↓ Hráč B spadl na pole 19
+
+Hráč C je na poli 98
+Hráč C hodil: [2] → celkem 2
+Hráč C hodil: 2
+Hráč C se posunul na pole 100
+
+🎉 Hráč C vyhrál hru! 🎉

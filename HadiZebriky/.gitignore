@@ -1,0 +1,12 @@
+# Ignorovat Python cache soubory
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorovat virtuální prostředí
+venv/
+.env/
+.venv/
+
+# Ignorovat IDE nastavení
+.idea/
