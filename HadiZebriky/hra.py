@@ -3,13 +3,17 @@ from vypis import vypis
 from herni_deska import HerniDeska
 import time
 
+
 def zpracuj_kolizi(hrac, ostatni_hraci, deska):
     for jiny_hrac in ostatni_hraci:
-        if jiny_hrac.pozice == hrac.pozice:
+        if jiny_hrac.pozice == hrac.pozice and hrac.pozice != 1:
             vypis(f"👥 {hrac.jmeno} přistál na poli {hrac.pozice}, kde je {jiny_hrac.jmeno}")
             nova_pozice = deska.aplikuj_specialni_pole(max(1, jiny_hrac.pozice - 1), jiny_hrac.jmeno, vypis)
             jiny_hrac.pozice = nova_pozice
             vypis(f"👥 {jiny_hrac.jmeno} byl posunut zpět na pole {jiny_hrac.pozice}")
+            vsichni_hraci = ostatni_hraci + [hrac]
+            zpracuj_kolizi(jiny_hrac, [h for h in vsichni_hraci if h != jiny_hrac], deska)
+
 
 def proved_tah(hrac, hod, ostatni_hraci, deska):
     vypis(f"{hrac.jmeno} hodil: {hod}")
@@ -25,6 +29,7 @@ def proved_tah(hrac, hod, ostatni_hraci, deska):
         return True
     return False
 
+
 def tah_hrace(hrac, ostatni_hraci, kostka, deska, ai=False):
     vypis(f"\n{hrac.jmeno} je na poli {hrac.pozice}")
     if not ai:
@@ -38,7 +43,11 @@ def tah_hrace(hrac, ostatni_hraci, kostka, deska, ai=False):
         vypis(chyba)
     return vysledek
 
+
 def spust_hru(hraci, kostka, ai=False):
+    if not (2 <= len(hraci) <= 8):
+        vypis(f"❌ Počet hráčů musí být mezi 2 a 8. Aktuálně: {len(hraci)}")
+        return
     deska = HerniDeska()
     while True:
         for hrac in hraci:
