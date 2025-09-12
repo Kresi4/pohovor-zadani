@@ -6,10 +6,10 @@ from hra import spust_hru
 def nacti_pocet_hracu():
     while True:
         try:
-            pocet = int(input("Zadej počet hráčů: "))
-            if pocet >= 2:
+            pocet = int(input("Zadej počet hráčů (2-8): "))
+            if 2 <= pocet <= 8:
                 return pocet
-            print("Musí být alespoň 2 hráči.")
+            print("Počet hráčů musí být mezi 2 a 8.")
         except ValueError:
             print("Zadej platné číslo.")
 
