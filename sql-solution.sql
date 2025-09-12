@@ -98,7 +98,7 @@ SELECT
 FROM rental r
 JOIN staff s ON r.staff_id = s.staff_id
 JOIN store st ON s.store_id = st.store_id
-GROUP BY s.staff_id, s.first_name, s.last_name, st.store_id, year
+GROUP BY s.staff_id, st.store_id, year
 ORDER BY st.store_id, s.staff_id, year;
 
 
